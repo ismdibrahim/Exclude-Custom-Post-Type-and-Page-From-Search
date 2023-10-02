@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Exclude Custom Post Type From Search
  */
